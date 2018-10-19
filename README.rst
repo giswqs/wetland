@@ -12,21 +12,28 @@ wetland
 .. image:: https://readthedocs.org/projects/wetland/badge/?version=latest
         :target: https://wetland.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
+.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
+        :target: https://opensource.org/licenses/MIT
 
 
+Author: Qiusheng Wu (https://wetlands.io | wqs@binghamton.edu)
 
 
-Mapping surface water and wetland hydrological dynamics using Google Earth Engine
+**wetland** is a toolset for mapping surface water and wetland hydrological dynamics using fine-resolution aerial imagery within Google Earth Engine (GEE).
 
+* GitHub repo: https://github.com/giswqs/wetland
+* Documentation: https://wetland.readthedocs.io
+* PyPI: https://pypi.org/project/wetland/
+* Free software: `MIT license`_
 
-* Free software: MIT license
-* Documentation: https://wetland.readthedocs.io.
+.. _`MIT license`: https://en.wikipedia.org/wiki/MIT_License
 
 
 Features
 --------
 
 * TODO
+
 
 Credits
 -------
